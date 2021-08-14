@@ -3,7 +3,7 @@ title = "About"
 tags = ["about", "members"]
 +++
 
-# Student Anaysis Group
+# Student Analysis Group
 👋 We are a group of research graduate students at \href{CUHK Math Dept}{https://www.math.cuhk.edu.hk/}. Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/} is our supervisor.
 
 Our interests include:
