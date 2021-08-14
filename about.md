@@ -12,6 +12,7 @@ Our interests include:
 - Dynamical Systems and Ergodic Theory
 - Thermodynamic Formalism
 - Multifractal Analysis
+- Group Actions
 
 To share opinions and discuss about the above topics, we initialize this series of seminars.
 
