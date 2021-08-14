@@ -3,7 +3,7 @@ title = "Schedule of Student Seminars"
 tags = ["schedule"]
 +++
 
-A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 222. All is welcome.
+A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 222. All are welcome.
 
 # Upcoming Seminars
 ## 2021
