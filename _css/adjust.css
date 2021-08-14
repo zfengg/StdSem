@@ -20,9 +20,6 @@
     padding-left: 6%;
     padding-right: 6%;
   }
-  .seminar-time {
-    float: left;
-  }
   .timevenue-sep{
     display: inline;
   }
@@ -33,22 +30,19 @@
     display: inline;
     float: left;
   }
-  .timevenue {
-    font-size: 0.9rem;
-  }
 }
 
-.timevenue {
+/* .timevenue {
   display: inline;
-}
+} */
 
 .seminar-time {
   float: left;
 }
 
-.seminar-venue {
+/* .seminar-venue {
   float: right;
-}
+} */
 
 .timevenue-sep {
   display: none;

@@ -353,8 +353,7 @@ h6 {
 @media (max-width: 48rem) {
   .masthead-title {
     text-align: center;
-    font-size: 1rem;
-    /* font-weight: bold; */
+    /* font-size: 1rem; */
   }
 
   .masthead-title small {

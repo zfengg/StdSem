@@ -33,10 +33,10 @@ Add here global latex commands to use throughout your pages.
 <span class="seminar-venue-mobile">#1</span>
 ~~~}
 
-\newcommand{\timevenue}[2]{~~~
+<!-- \newcommand{\timevenue}[2]{~~~
 <span class="timevenue">
 <span class="seminar-time"> #1</span> 
 <span class="seminar-venue">#2</span>
 <br>
 </span> 
-~~~}
+~~~} -->
