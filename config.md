@@ -1,7 +1,5 @@
-<!--
-Add here global page variables to use throughout your website.
--->
 +++
+# global variables
 author = "Student Analysis Group"
 mintoclevel = 2
 
@@ -19,9 +17,7 @@ website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 prepath = "StdSem"
 +++
 
-<!--
-Add here global latex commands to use throughout your pages.
--->
+<!-- ------------------------ global latex commands ------------------------ -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
 \newcommand{\href}[2]{~~~<a href="!#2" target="_blank">#1</a>~~~}
@@ -32,11 +28,3 @@ Add here global latex commands to use throughout your pages.
 ~~~
 <span class="seminar-venue-mobile">#1</span>
 ~~~}
-
-<!-- \newcommand{\timevenue}[2]{~~~
-<span class="timevenue">
-<span class="seminar-time"> #1</span> 
-<span class="seminar-venue">#2</span>
-<br>
-</span> 
-~~~} -->
