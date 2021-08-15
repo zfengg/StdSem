@@ -14,7 +14,7 @@ generate_rss = false
 website_title = "Student Seminars"
 website_descr = "A series of seminars on analysis @ cuhk"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
-prepath = "StdSem"
+prepath = ""
 +++
 
 <!-- ------------------------ global latex commands ------------------------ -->
