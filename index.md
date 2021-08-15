@@ -22,7 +22,7 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
   **Jiaming Wu**
   
   - Einsiedler, M. & Ward, T. *\href{Ergodic theory with a view towards number theory}{https://link.springer.com/content/pdf/10.1007%2F978-0-85729-021-2.pdf}*. Springer-Verlag London, Ltd., London, 2011, 259, xviii+481. Chp 9.
-  - *Notes.*
+  - *Notes*
 
 - 6/22 — 7/20 Tuesdays \venue{LSB 222}
 
