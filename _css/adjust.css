@@ -20,24 +20,6 @@
     padding-left: 6%;
     padding-right: 6%;
   }
-  .timevenue-sep{
-    display: inline;
-  }
-  .seminar-venue-desktop {
-    display: none;
-  }
-  .seminar-venue-mobile {
-    display: inline;
-    float: left;
-  }
-}
-
-/* .timevenue {
-  display: inline;
-} */
-
-.seminar-time {
-  float: left;
 }
 
 .seminar-venue {
@@ -45,15 +27,47 @@
   display: inline;
 }
 
-.timevenue-sep {
-  display: none;
-}
 
-.seminar-venue-desktop {
-  float: right;
-  display: inline;
+/* katex */
+.no-number .katex-display::after {
+  counter-increment: nothing;
+  content: "";
 }
-
-.seminar-venue-mobile {
-  display: none;
+ 
+.collapsible /* a div that wraps the whole collapsible block */ {
+}
+.collapsible-header {
+  /* background-color: #eee; */
+  background-color: white;
+  /* color: #444; */
+  cursor: pointer;
+  /* padding: 0.75em 0.5em 0.5em; */
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 1em;
+  font-style: italic;
+  /* font-weight: bold; */
+}
+.collapsible-header-active,
+.collapsible-header:hover {
+  background-color: white;
+}
+.collapsible-content {
+  /* background-color: #f1f1f1; */
+  background-color: white;
+  padding: 0 1em;
+  padding-top: 0.3em;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+.collapsible-header:after {
+  content: "\25b2";
+  font-size: 1em;
+  /* float: right; */
+  margin-left: 5px;
+}
+.collapsible-header-active:after {
+  content: "\25bc";
 }
