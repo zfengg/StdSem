@@ -27,8 +27,10 @@
   display: inline;
 }
 
-
 /* katex */
+.katex-display {
+	overflow: auto hidden
+}
 .no-number .katex-display::after {
   counter-increment: nothing;
   content: "";
