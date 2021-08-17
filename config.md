@@ -22,9 +22,13 @@ prepath = ""
 \newcommand{\scal}[1]{\langle #1 \rangle}
 \newcommand{\href}[2]{~~~<a href="!#2" target="_blank">#1</a>~~~}
 
-\newcommand{\venue}[1]{~~~
+\newcommand{\venue}[1]{~~~<span class="seminar-venue">#1</span>~~~}
+\newcommand{\venuelink}[2]{~~~<span class="seminar-venue">~~~\href{#1}{#2}~~~</span>~~~}
+
+<!-- \newcommand{\venue}[1]{~~~
 <span class="seminar-venue-desktop">#1</span>
 ~~~
 ~~~
 <span class="seminar-venue-mobile">#1</span>
-~~~}
+~~~} -->
+
