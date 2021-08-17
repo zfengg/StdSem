@@ -14,3 +14,10 @@ function lx_baz(com, _)
   # do whatever you want here
   return uppercase(brace_content)
 end
+
+function hfun_insertmd(params)
+  rpath = params[1]
+  fullpath = joinpath(Franklin.path(:folder), rpath)
+  isfile(fullpath) || return ""
+  return read(fullpath, String)
+end
