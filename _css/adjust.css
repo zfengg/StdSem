@@ -22,10 +22,41 @@
   }
 }
 
-.seminar-venue {
-  float: right;
-  display: inline;
+/* list */
+ul {margin-left: 0; padding-left: 1rem;}
+
+.franklin-content {
+  position: relative;
+  padding-left: 1%;
+  padding-right: 1%;
+  line-height: 1.35em;
 }
+/* On wide screens, fix content width to a max value. */
+@media (min-width: 940px) {
+  .franklin-content {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* On narrow device, reduce margins. */
+@media (max-width: 480px) {
+  .franklin-content {
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+}
+
+.franklin-content ul a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+/* Style and "hide" the sidebar */
+/* .sidebar {
+  width: 14rem;
+} */
 
 /* katex */
 .katex-display {
@@ -34,6 +65,12 @@
 .no-number .katex-display::after {
   counter-increment: nothing;
   content: "";
+}
+
+/* ---------------------------------- envs ---------------------------------- */
+.seminar-venue {
+  float: right;
+  display: inline;
 }
  
 .collapsible /* a div that wraps the whole collapsible block */ {
@@ -58,7 +95,7 @@
 .collapsible-content {
   /* background-color: #f1f1f1; */
   background-color: white;
-  padding: 0 1em;
+  /* padding: 0 1em */
   padding-top: 0.3em;
   max-height: 0;
   overflow: hidden;
