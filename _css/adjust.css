@@ -88,15 +88,16 @@ ul {margin-left: 0; padding-left: 1rem;}
   font-style: italic;
   /* font-weight: bold; */
 }
-.collapsible-header-active,
+.collapsible-header-active, 
 .collapsible-header:hover {
-  background-color: white;
+  background-color: white
 }
 .collapsible-content {
   /* background-color: #f1f1f1; */
-  background-color: white;
+  background-color: #F5F5F7;
   /* padding: 0 1em */
-  padding-top: 0.3em;
+  /* padding-top: 0.3em; */
+  /* margin: 0.3rem; */
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
