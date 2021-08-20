@@ -24,7 +24,6 @@ website_url   = "https:/stdsem.me"
 \newcommand{\venuelink}[2]{~~~<span class="seminar-venue">~~~\href{#1}{#2}~~~</span>~~~}
 \newcommand{\inputsmmry}[1]{\textinput{summaries/!#1}}
 \newcommand{\inputoutl}[1]{\textinput{outlines/!#1}}
-\newcommand{\inputref}[1]{\textinput{refs/!#1}}
 \newcommand{\collapsible}[2]{
   @@collapsible
     @@collapsible-header #1 @@
