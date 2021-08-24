@@ -8,7 +8,7 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 # Upcoming
 ## 2021
 
-- 8/24 Tuesday 2:30PM \venue{Zoom}\\
+- 8/24 Tuesday 2:30PM \venue{LSB 239}\\
   **Caiyun Ma**
   - Feng, D.-J. \href{Lyapunov exponents for products of matrices and multifractal analysis. I. Positive matrices}{https://link.springer.com/content/pdf/10.1007/BF02783432.pdf}. *Israel J. Math.*, 2003, 138, 353-376.
 
