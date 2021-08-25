@@ -8,16 +8,16 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 # Upcoming Seminars
 ## 2021
 
-- 8/24 Tuesday 2:30PM \venuelink{Zoom}{https://cuhk.zoom.us/j/96953666028?pwd=YkRLSXRuaXdubjVmeEV4bkcyOGc4QT09}\\
+- 8/32 Tuesday 2:30PM \venuelink{Zoom}{https://cuhk.zoom.us/j/96953666028?pwd=YkRLSXRuaXdubjVmeEV4bkcyOGc4QT09}\\
   **Caiyun Ma**
   - Feng, D.-J. \href{Lyapunov exponents for products of matrices and multifractal analysis. I. Positive matrices}{https://link.springer.com/content/pdf/10.1007/BF02783432.pdf}. *Israel J. Math.*, 2003, 138, 353-376.
 
 # Previous Seminars
 ## 2021
-- 8/17 Tuesday \venue{Zoom}\\
+- 8/17 — 8/24 Tuesdays \venue{LSB 239}\\
   **Caiyun Ma**
   - Feng, D.-J. \href{Lyapunov exponents for products of matrices and multifractal analysis. I. Positive matrices}{https://link.springer.com/content/pdf/10.1007/BF02783432.pdf}. *Israel J. Math.*, 2003, 138, 353-376.
-  - \collapsible{Summary}{\inputsmmry{2021/0817.md}} 
+  - \collapsible{Summary}{\inputsmmry{2021/0824.md}} 
 
 - 7/27 — 8/10 Tuesdays \venue{Zoom}\\
   **Jiaming Wu**
