@@ -8,7 +8,10 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 # Upcoming
 ## 2021
 
-- To be announced.
+- 9/7 Tuesday \venue{LSB 239}\\
+  **Yuhao Xie**
+  - Falconer, K. J. & Marsh, D. T. \href{On the Lipschitz equivalence of Cantor sets}{https://londmathsoc.onlinelibrary.wiley.com/doi/epdf/10.1112/S0025579300014959}. Mathematika, 1992, 39, 223-233
+  - \collapsible{Outline}{\inputoutln{2021/0907.md}} 
 
 # Previous
 ## 2021
