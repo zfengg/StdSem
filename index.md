@@ -7,7 +7,7 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Upcoming
 ## 2021
-- 9/14 Tuesday \venue{LSB  222}\\
+- 9/14 Tuesday \venue{LSB 202}\\
   **Tianhan Yi**
   - Einsiedler, M. & Ward, T. \href{Ergodic theory with a view towards number theory: Chp11}{https://link.springer.com/content/pdf/10.1007%2F978-0-85729-021-2.pdf}. *Springer-Verlag London, Ltd., London, 2011, 259, xviii+481.*
   - \collapsible{Outline}{\inputoutln{2021/0914.md}} 
