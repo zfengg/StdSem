@@ -7,13 +7,16 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Upcoming
 ## 2021
-- To be announced.
+- 9/14 Tuesday \venue{LSB  222}\\
+  **Tianhan Yi**
+  - Einsiedler, M. & Ward, T. \href{Ergodic theory with a view towards number theory: Chp11}{https://link.springer.com/content/pdf/10.1007%2F978-0-85729-021-2.pdf}. *Springer-Verlag London, Ltd., London, 2011, 259, xviii+481.*
+  - \collapsible{Outline}{\inputoutln{2021/0914.md}} 
 
 # Previous
 ## 2021
 - 9/7 Tuesday \venue{LSB 239}\\
   **Yuhao Xie**
-  - Falconer, K. J. & Marsh, D. T. \href{On the Lipschitz equivalence of Cantor sets}{https://londmathsoc.onlinelibrary.wiley.com/doi/epdf/10.1112/S0025579300014959}. Mathematika, 1992, 39, 223-233
+  - Falconer, K. J. & Marsh, D. T. \href{On the Lipschitz equivalence of Cantor sets}{https://londmathsoc.onlinelibrary.wiley.com/doi/epdf/10.1112/S0025579300014959}. *Mathematika, 1992, 39, 223-233*
   - \collapsible{Outline}{\inputoutln{2021/0907.md}} 
 
 - 8/17 — 8/31 Tuesdays \venue{LSB 239}\\
