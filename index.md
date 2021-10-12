@@ -7,7 +7,7 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Upcoming
 ## 2021
-- 10/5 Tuesday \venue{LSB 202}\\
+- 10/12 Tuesday \venue{LSB 202}\\
   **Yuji Li**
   - Bishop, C. J. & Peres, Y. \href{Fractals in probability and analysis}{https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168} Cambridge University Press, Cambridge, 2017, 162, ix+402
   - Bourgain, J. \href{Ruzsa's problem on sets of recurrence}{https://link.springer.com/content/pdf/10.1007/BF02787258.pdf} *Israel J. Math., 1987, 59, 150-166*
@@ -15,10 +15,10 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Previous
 ## 2021
-- 9/28 Tuesday \venue{LSB 202}\\
+- 9/28 — 10/5  Tuesdays \venue{LSB 202}\\
   **Yuji Li**
-  - Bishop, C. J. & Peres, Y. \href{Fractals in probability and analysis}{https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168} Cambridge University Press, Cambridge, 2017, 162, ix+402
-  - Bourgain, J. \href{Ruzsa's problem on sets of recurrence}{https://link.springer.com/content/pdf/10.1007/BF02787258.pdf} *Israel J. Math., 1987, 59, 150-166*
+  - Bishop, C. J. & Peres, Y. \href{Fractals in probability and analysis}{https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168}. *Cambridge University Press, Cambridge, 2017, 162, ix+402*
+  - Bourgain, J. \href{Ruzsa's problem on sets of recurrence}{https://link.springer.com/content/pdf/10.1007/BF02787258.pdf}. *Israel J. Math., 1987, 59, 150-166*
   - \collapsible{Outline}{\inputoutln{2021/0928.md}} 
 
 - 9/14 Tuesday \venue{LSB 202}\\
