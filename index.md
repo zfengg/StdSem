@@ -7,15 +7,14 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Upcoming
 ## 2021
-- 10/12 Tuesday \venue{LSB 202}\\
-  **Yuji Li**
-  - Bishop, C. J. & Peres, Y. \href{Fractals in probability and analysis}{https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168} Cambridge University Press, Cambridge, 2017, 162, ix+402
-  - Bourgain, J. \href{Ruzsa's problem on sets of recurrence}{https://link.springer.com/content/pdf/10.1007/BF02787258.pdf} *Israel J. Math., 1987, 59, 150-166*
-
+- 10/19 Tuesday \venue{LSB 202}\\
+  **Zhou Feng**
+  - Breuillard, E. & Varjú, P. P. \href{Cut-off phenomenon for the ax+b Markov chain over a finite field}{https://arxiv.org/pdf/1909.09053.pdf}. ArXiv:1909.09053. 2019.
+  - \collapsible{Outline}{\inputoutln{2021/1019.md}} 
 
 # Previous
 ## 2021
-- 9/28 — 10/5  Tuesdays \venue{LSB 202}\\
+- 9/28 — 10/12  Tuesdays \venue{LSB 202}\\
   **Yuji Li**
   - Bishop, C. J. & Peres, Y. \href{Fractals in probability and analysis}{https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168}. *Cambridge University Press, Cambridge, 2017, 162, ix+402*
   - Bourgain, J. \href{Ruzsa's problem on sets of recurrence}{https://link.springer.com/content/pdf/10.1007/BF02787258.pdf}. *Israel J. Math., 1987, 59, 150-166*
