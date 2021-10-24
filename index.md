@@ -3,17 +3,22 @@ title = "Schedule of Student Seminars"
 tags = ["schedule"]
 +++
 
-A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 222. All are welcome.
+A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 202. All are welcome.
 
 # Upcoming
 ## 2021
-- 10/19 Tuesday \venue{LSB 202}\\
+- 10/26 Tuesday \venue{LSB 202}\\
   **Zhou Feng**
   - Breuillard, E. & Varjú, P. P. \href{Cut-off phenomenon for the ax+b Markov chain over a finite field}{https://arxiv.org/pdf/1909.09053.pdf}. ArXiv:1909.09053. 2019.
   - \collapsible{Outline}{\inputoutln{2021/1019.md}} 
 
 # Previous
 ## 2021
+- 10/19 Tuesdays \venue{LSB 202}\\
+  **Zhou Feng**
+  - Breuillard, E. & Varjú, P. P. \href{Cut-off phenomenon for the ax+b Markov chain over a finite field}{https://arxiv.org/pdf/1909.09053.pdf}. ArXiv:1909.09053. 2019.
+  - \collapsible{Outline}{\inputoutln{2021/1019.md}} 
+
 - 9/28 — 10/12  Tuesdays \venue{LSB 202}\\
   **Yuji Li**
   - Bishop, C. J. & Peres, Y. \href{Fractals in probability and analysis}{https://www.cambridge.org/core/books/fractals-in-probability-and-analysis/D8CBD4181FDC20C387E22939DA2F6168}. *Cambridge University Press, Cambridge, 2017, 162, ix+402*
