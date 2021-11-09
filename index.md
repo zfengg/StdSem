@@ -7,14 +7,11 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Upcoming
 ## 2021
-- 10/26 Tuesday \venue{LSB 202}\\
-  **Zhou Feng**
-  - Breuillard, E. & Varjú, P. P. \href{Cut-off phenomenon for the ax+b Markov chain over a finite field}{https://arxiv.org/pdf/1909.09053.pdf}. ArXiv:1909.09053. 2019.
-  - \collapsible{Outline}{\inputoutln{2021/1019.md}} 
+- To be announced.
 
 # Previous
 ## 2021
-- 10/19 Tuesdays \venue{LSB 202}\\
+- 10/19 — 11/9 Tuesdays \venue{LSB 202}\\
   **Zhou Feng**
   - Breuillard, E. & Varjú, P. P. \href{Cut-off phenomenon for the ax+b Markov chain over a finite field}{https://arxiv.org/pdf/1909.09053.pdf}. ArXiv:1909.09053. 2019.
   - \collapsible{Outline}{\inputoutln{2021/1019.md}} 
