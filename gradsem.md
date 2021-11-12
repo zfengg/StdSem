@@ -15,7 +15,7 @@ This is an experimental page for the record of *graduate seminars* organized by 
 ## 2021
 - 10/15 — 11/5 Fridays \venue{LSB 222}\\
   **Caiyun Ma**
-  - Shmerkin, P. Ergodic Geometric Measure Theory. *Lecture notes (Unpublished. Please [contact members](about/) to get)*. 
+  - Shmerkin, P. Ergodic Geometric Measure Theory. *Lecture notes (Please [contact members](/about/index.html##group_members) to get the unpublished notes)*. 
   - \collapsible{Outline}{\inputoutln{2021/1105.md}}
 
 - 9/17 — 9/24 Fridays \venue{LSB 222}\\
