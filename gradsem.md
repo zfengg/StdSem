@@ -13,6 +13,11 @@ This is an experimental page for the record of *graduate seminars* organized by 
 
 # Previous
 ## 2021
+- 10/15 — 11/5 Fridays \venue{LSB 222}\\
+  **Caiyun Ma**
+  - Shmerkin, P. Ergodic Geometric Measure Theory. *Lecture notes (Unpublished. Please [contact members](about/) to get)*. 
+  - \collapsible{Outline}{\inputoutln{2021/1105.md}}
+
 - 9/17 — 9/24 Fridays \venue{LSB 222}\\
   **Yuhao Xie**
   - Feng, D.-J.; Huang, W. & Rao, H. \href{Affine embeddings and intersections of Cantor sets}{https://www.sciencedirect.com/science/article/pii/S002178241400035X?via%3Dihub}. *J. Math. Pures Appl. (9), 2014, 102, 1062-1079*
