@@ -11,13 +11,13 @@ This is an experimental page for the record of *graduate seminars* organized by 
 ## 2021
 - 12/3 Friday \venue{LSB 222}\\
   **Tianhan Yi**
-  - Wu, Meng. \href{A proof of Furstenberg's conjecture on the intersections of $\times p$- and × q-invariant sets}{https://www.jstor.org/stable/pdf/10.4007/annals.2019.189.3.2.pdf}. *Ann. of Math. (2) , Vol. 189, No. 3 p. 707-751. 2019.*
+  - Wu, Meng. \href{A proof of Furstenberg's conjecture on the intersections of × p- and × q-invariant sets}{https://www.jstor.org/stable/pdf/10.4007/annals.2019.189.3.2.pdf}. *Ann. of Math. (2) , Vol. 189, No. 3 p. 707-751. 2019.*
 
 # Previous
 ## 2021
 - 11/12 — 11/26 Fridays \venue{LSB 222}\\
   **Tianhan Yi**
-  - Wu, Meng. \href{A proof of Furstenberg's conjecture on the intersections of $\times p$- and × q-invariant sets}{https://www.jstor.org/stable/pdf/10.4007/annals.2019.189.3.2.pdf}. *Ann. of Math. (2) , Vol. 189, No. 3 p. 707-751. 2019.*
+  - Wu, Meng. \href{A proof of Furstenberg's conjecture on the intersections of × p- and × q-invariant sets}{https://www.jstor.org/stable/pdf/10.4007/annals.2019.189.3.2.pdf}. *Ann. of Math. (2) , Vol. 189, No. 3 p. 707-751. 2019.*
 
 - 10/15 — 11/5 Fridays \venue{LSB 222}\\
   **Caiyun Ma**
