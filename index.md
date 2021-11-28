@@ -7,13 +7,19 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Upcoming
 ## 2021
-- To be announced.
+- 11/30 Tuesday \venue{LSB 202}\\
+  **Yuhao Xie**
+  - Hochman, Michael & Shmerkin, Pablo. \href{Local entropy averages and projections of fractal measures}{https://annals.math.princeton.edu/wp-content/uploads/annals-v175-n3-p01-s.pdf}. *Ann. of Math. (2) , Vol. 175, No. 3 p. 1001-1059. 2012.*
 
 # Previous
 ## 2021
+- 11/23 Tuesdays \venue{LSB 202}\\
+  **Yuhao Xie**
+  - Hochman, Michael & Shmerkin, Pablo. \href{Local entropy averages and projections of fractal measures}{https://annals.math.princeton.edu/wp-content/uploads/annals-v175-n3-p01-s.pdf}. *Ann. of Math. (2) , Vol. 175, No. 3 p. 1001-1059. 2012.*
+
 - 10/19 — 11/9 Tuesdays \venue{LSB 202}\\
   **Zhou Feng**
-  - Breuillard, E. & Varjú, P. P. \href{Cut-off phenomenon for the ax+b Markov chain over a finite field}{https://arxiv.org/pdf/1909.09053.pdf}. ArXiv:1909.09053. 2019.
+  - Breuillard, E. & Varjú, P. P. \href{Cut-off phenomenon for the ax+b Markov chain over a finite field}{https://arxiv.org/pdf/1909.09053.pdf}. *ArXiv:1909.09053. 2019.*
   - \collapsible{Outline}{\inputoutln{2021/1019.md}} 
   - \collapsible{Summary}{\inputsmmry{2021/1109.md}}
 
