@@ -17,6 +17,7 @@ Our interests include:
 To share opinions and discuss about the above topics, we initialize this series of seminars.
 
 ## Group Members
+### Current:
 - Caiyun Ma
 - Jiaming Wu
 - Zhou Feng
@@ -26,6 +27,6 @@ To share opinions and discuss about the above topics, we initialize this series 
   
 We can be reached via contacts listed \href{here}{https://www.math.cuhk.edu.hk/people/research-graduate-students}.
 
-### Past Members
+### Past:
 - Yufeng Wu
 - Changhao Chen

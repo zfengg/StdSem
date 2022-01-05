@@ -8,14 +8,13 @@ tags = ["graduate"]
 This is an experimental page for the record of *graduate seminars* organized by Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars will normally be held in the afternoons at 19:00 HKT LSB 222. All the files and resources are purely for academic use.
 
 # Upcoming
-## 2021
-- 12/3 Friday \venue{LSB 222}\\
-  **Tianhan Yi**
-  - Wu, Meng. \href{A proof of Furstenberg's conjecture on the intersections of × p- and × q-invariant sets}{https://www.jstor.org/stable/pdf/10.4007/annals.2019.189.3.2.pdf}. *Ann. of Math. (2) , Vol. 189, No. 3 p. 707-751. 2019.*
+## 2022
+- To be announced.
 
 # Previous
+## 2022
 ## 2021
-- 11/12 — 11/26 Fridays \venue{LSB 222}\\
+- 11/12 — 12/3 Fridays \venue{LSB 222}\\
   **Tianhan Yi**
   - Wu, Meng. \href{A proof of Furstenberg's conjecture on the intersections of × p- and × q-invariant sets}{https://www.jstor.org/stable/pdf/10.4007/annals.2019.189.3.2.pdf}. *Ann. of Math. (2) , Vol. 189, No. 3 p. 707-751. 2019.*
 

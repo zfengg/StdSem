@@ -7,7 +7,7 @@ ignore = ["node_modules/"]
 prepath = ""
 # RSS
 generate_rss = false
-website_title = "Student Seminars"
+website_title = "Analysis Seminars"
 website_descr = "A series of seminars on analysis @ cuhk"
 website_url   = "https:/stdsem.me"
 +++

@@ -1,19 +1,19 @@
 +++
-title = "Schedule of Student Seminars"
-tags = ["schedule"]
+title = "Student Seminars"
+tags = ["schedule", "student"]
 +++
-
+# Student Seminars
 A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 202. All are welcome.
 
 # Upcoming
-## 2021
-- 11/30 Tuesday \venue{LSB 202}\\
-  **Yuhao Xie**
-  - Hochman, Michael & Shmerkin, Pablo. \href{Local entropy averages and projections of fractal measures}{https://annals.math.princeton.edu/wp-content/uploads/annals-v175-n3-p01-s.pdf}. *Ann. of Math. (2) , Vol. 175, No. 3 p. 1001-1059. 2012.*
+## 2022
+- To be announced.
 
 # Previous
+## 2022
+
 ## 2021
-- 11/23 Tuesdays \venue{LSB 202}\\
+- 11/23 — 11/30 Tuesdays \venue{LSB 202}\\
   **Yuhao Xie**
   - Hochman, Michael & Shmerkin, Pablo. \href{Local entropy averages and projections of fractal measures}{https://annals.math.princeton.edu/wp-content/uploads/annals-v175-n3-p01-s.pdf}. *Ann. of Math. (2) , Vol. 175, No. 3 p. 1001-1059. 2012.*
 
