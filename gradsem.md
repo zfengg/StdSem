@@ -5,14 +5,20 @@ tags = ["graduate"]
 
 # Graduate Seminars
 
-This is an experimental page for the record of *graduate seminars* organized by Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars will normally be held in the afternoons at 19:00 HKT LSB 222. All the files and resources are purely for academic use.
+This is an experimental page for the record of *graduate seminars* organized by Professor \href{De-Jun Feng}{https://www.math.cuhk.edu.hk/~djfeng/}. This series of seminars will normally be held in the afternoons at 14:30 HKT LSB 222. All the files and resources are purely for academic use.
 
 # Upcoming
 ## 2022
-- To be announced.
-
+- 1/21 Friday \venue{LSB 222}\\
+  **Zhou Feng**
+  - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
+  - \collapsible{Outline}{\inputoutln{2022/o220121.md}}
 # Previous
 ## 2022
+- 1/14 Friday \venue{LSB 222}\\
+  **Yuhao Xie**
+  - Morris, Ian D.. \href{When does an affine iterated function system preserve an affine subspace for all choices of translation vectors?}{https://arxiv.org/abs/2111.02324}. *Arxiv preprint, Arxiv: \href{2111.02324}{https://arxiv.org/abs/2111.02324}. 2021.*
+  - \collapsible{Outline}{\inputoutln{2022/o220114.md}}
 ## 2021
 - 11/12 — 12/3 Fridays \venue{LSB 222}\\
   **Tianhan Yi**
