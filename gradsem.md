@@ -9,7 +9,7 @@ This is an experimental page for the record of *graduate seminars* organized by 
 
 # Upcoming
 ## 2022
-- 1/21 Friday \venue{LSB 222}\\
+- 1/21 Friday 2:30PM \venue{LSB 222}\\
   **Zhou Feng**
   - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
   - \collapsible{Outline}{\inputoutln{2022/o220121.md}}
