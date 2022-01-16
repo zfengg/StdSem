@@ -5,6 +5,8 @@ tags = ["schedule", "student"]
 # Student Seminars
 A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 202. All are welcome.
 
+\href{Seminar Topics 2022}{/assets/topics/StdsemTopics2022.pdf}
+
 # Upcoming
 ## 2022
 - To be announced.
