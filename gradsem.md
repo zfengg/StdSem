@@ -9,18 +9,18 @@ This is an experimental page for the record of *graduate seminars* organized by 
 
 # Upcoming
 ## 2022
-- 2/9 Wednesday 2:30PM \venuelink{Zoom link}{https://cuhk.zoom.us/j/95535284927?pwd=U21Ocm93NzNuQVd0SXlwRW9ubnRZUT09}\\
+- 2/11 Friday 2:30PM \venuelink{Zoom link}{https://cuhk.zoom.us/j/95535284927?pwd=U21Ocm93NzNuQVd0SXlwRW9ubnRZUT09}\\
   **Zhou Feng**
   - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
   - \collapsible{Outline}{\inputoutln{2022/o220121.md}}
 # Previous
 ## 2022
-- 1/21 — 1/28 Fridays \venue{LSB 222}\\
+- 1/21 — 2/9 Fri. & Wed. \venue{LSB 222 & Zoom}\\
   **Zhou Feng**
   - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
   - \collapsible{Outline}{\inputoutln{2022/o220121.md}}
-  - Notes: \noteref{Ch0-Intro.pdf}{2022/220121/NoteVarju2019-Ch0-Intro.pdf}
-  - \href{Notes Folder}{https://mycuhk-my.sharepoint.com/:f:/g/personal/1155136793_link_cuhk_edu_hk/Et1amdqGKvZEjAKINOzU1-EBhBWiUXjiwPCPX52em8_wlA?e=YbnvNG}
+  - \href{The sharing folder of notes.}{https://mycuhk-my.sharepoint.com/:f:/g/personal/1155136793_link_cuhk_edu_hk/Et1amdqGKvZEjAKINOzU1-EBhBWiUXjiwPCPX52em8_wlA?e=YbnvNG}
+  - Video recordings: \href{2/9}{https://cuhk.zoom.us/rec/share/wlM4uy931oOB96sczdsG-FtJtT6gKTQE_8M8ESeKj0JdNsaSTqP1mjoF6vpMuGfb.4I7mGWAocEl6weIO?startTime=1644387764000}
 
 - 1/14 Friday \venue{LSB 222}\\
   **Yuhao Xie**
