@@ -20,6 +20,7 @@ website_url   = "https:/stdsem.me"
 
 <!-- envs -->
 \newcommand{\href}[2]{~~~<a href="!#2" target="_blank">#1</a>~~~}
+\newcommand{\noteref}[2]{\href{#1}{/assets/notes/!#2}}
 \newcommand{\venue}[1]{~~~<span class="seminar-venue">#1</span>~~~}
 \newcommand{\venuelink}[2]{~~~<span class="seminar-venue">~~~\href{#1}{#2}~~~</span>~~~}
 \newcommand{\inputsmmry}[1]{\textinput{summaries/!#1}}

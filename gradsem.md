@@ -9,12 +9,18 @@ This is an experimental page for the record of *graduate seminars* organized by 
 
 # Upcoming
 ## 2022
-- 1/21 Friday 2:30PM \venue{LSB 222}\\
+- 2/9 Wednesday 2:30PM \venuelink{Zoom link}{https://cuhk.zoom.us/j/95535284927?pwd=U21Ocm93NzNuQVd0SXlwRW9ubnRZUT09}\\
   **Zhou Feng**
   - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
   - \collapsible{Outline}{\inputoutln{2022/o220121.md}}
 # Previous
 ## 2022
+- 1/21 — 1/28 Fridays \venue{LSB 222}\\
+  **Zhou Feng**
+  - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
+  - \collapsible{Outline}{\inputoutln{2022/o220121.md}}
+  - Notes: \noteref{Ch0-Intro.pdf}{2022/220121/NoteVarju2019-Ch0-Intro.pdf}
+
 - 1/14 Friday \venue{LSB 222}\\
   **Yuhao Xie**
   - Morris, Ian D.. \href{When does an affine iterated function system preserve an affine subspace for all choices of translation vectors?}{https://arxiv.org/abs/2111.02324}. *Arxiv preprint, Arxiv: \href{2111.02324}{https://arxiv.org/abs/2111.02324}. 2021.*
