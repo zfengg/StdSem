@@ -20,6 +20,7 @@ This is an experimental page for the record of *graduate seminars* organized by 
   - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
   - \collapsible{Outline}{\inputoutln{2022/o220121.md}}
   - Notes: \noteref{Ch0-Intro.pdf}{2022/220121/NoteVarju2019-Ch0-Intro.pdf}
+  - \href{Notes Folder}{https://mycuhk-my.sharepoint.com/:f:/g/personal/1155136793_link_cuhk_edu_hk/Et1amdqGKvZEjAKINOzU1-EBhBWiUXjiwPCPX52em8_wlA?e=YbnvNG}
 
 - 1/14 Friday \venue{LSB 222}\\
   **Yuhao Xie**
