@@ -19,14 +19,15 @@ To share opinions and discuss about the above topics, we initialize this series 
 ## Group Members
 ### Current:
 - Caiyun Ma
-- Jiaming Wu
 - Zhou Feng
 - Tianhan Yi
 - Yuhao Xie
 - Yuji Li
+- Jianci Xiao
   
 We can be reached via contacts listed \href{here}{https://www.math.cuhk.edu.hk/people/research-graduate-students}.
 
 ### Past:
 - Yufeng Wu
 - Changhao Chen
+- Jiaming Wu
