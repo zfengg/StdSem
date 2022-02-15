@@ -13,6 +13,11 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Previous
 ## 2022
+- 2/15 Tuesday \venue{Zoom}\\
+  **Tianhan Yi**
+  - Einsiedler, Manfred & Ward, Thomas. \href{Ergodic theory with a view towards number theory}{https://doi.org/10.1007/978-0-85729-021-2}. *Vol. 259. Graduate Texts in Mathematics Springer-Verlag London, Ltd., London p. xviii+481. 2011.*
+  - \href{Note}{https://drive.google.com/file/d/1fXRkUQqngDIt9Z5FpLFOUTvmtxZcIDoU/view?usp=sharing}
+
 - 2/8 Tuesday \venue{Zoom}\\
   **Caiyun Ma**
   - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
