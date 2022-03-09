@@ -13,6 +13,13 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Previous
 ## 2022
+- 3/1 Tuesday \venue{Zoom}\\
+  **Caiyun Ma**
+  - Feng, Dejun; Wen, Zhiying & Wu, Jun. \href{Some dimensional results for homogeneous Moran sets}{https://doi.org/10.1007/BF02896955}. *Sci. China Ser. A , Vol. 40, No. 5 p. 475-482. 1997.*
+  - \collapsible{Outline}{\inputoutln{2022/o220301.md}}
+  - Feng, Dejun; Rao, Hui & Wu, Jun. \href{The net measure properties of symmetric Cantor sets and their applications}{/assets/refs/FengRaoWu_NetPropertiesSymCantor.pdf}. *Progr. Natur. Sci. (English Ed.) , Vol. 7, No. 2 p. 172-178. 1997.*
+  - \href{Note 3/1}{https://drive.google.com/open?id=1o8orbGwIyH6ofbdy89ZSdZz--5iKhKzZ};
+
 - 2/15 Tuesday \venue{Zoom}\\
   **Tianhan Yi**
   - Einsiedler, Manfred & Ward, Thomas. \href{Ergodic theory with a view towards number theory}{https://doi.org/10.1007/978-0-85729-021-2}. *Vol. 259. Graduate Texts in Mathematics Springer-Verlag London, Ltd., London p. xviii+481. 2011.*
