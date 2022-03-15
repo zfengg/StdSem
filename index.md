@@ -13,17 +13,23 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Previous
 ## 2022
-- 3/1 Tuesday \venue{Zoom}\\
+- 3/15 Tuesday \venue{Zoom}\\
+  **Yuji Li**
+  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
+  - \href{Note}{https://drive.google.com/open?id=1NdJETPCC4Y5QnolEGUAFOR_jfNZa14pH}.
+
+- 3/1 — 3/8 Tuesdays \venue{Zoom}\\
   **Caiyun Ma**
   - Feng, Dejun; Wen, Zhiying & Wu, Jun. \href{Some dimensional results for homogeneous Moran sets}{https://doi.org/10.1007/BF02896955}. *Sci. China Ser. A , Vol. 40, No. 5 p. 475-482. 1997.*
-  - \collapsible{Outline}{\inputoutln{2022/o220301.md}}
+  - \collapsible{Outline 3/1}{\inputoutln{2022/o220301.md}}
   - Feng, Dejun; Rao, Hui & Wu, Jun. \href{The net measure properties of symmetric Cantor sets and their applications}{/assets/refs/FengRaoWu_NetPropertiesSymCantor.pdf}. *Progr. Natur. Sci. (English Ed.) , Vol. 7, No. 2 p. 172-178. 1997.*
-  - \href{Note 3/1}{https://drive.google.com/open?id=1o8orbGwIyH6ofbdy89ZSdZz--5iKhKzZ};
+  - \collapsible{Outline 3/8}{\inputoutln{2022/o220308.md}}
+  - \href{Note 3/1}{https://drive.google.com/open?id=1o8orbGwIyH6ofbdy89ZSdZz--5iKhKzZ}; \href{Note 3/8}{https://drive.google.com/open?id=1Bvs7Msl1kUMe_GbF33-mQNr5IurasM3_}.
 
 - 2/15 Tuesday \venue{Zoom}\\
   **Tianhan Yi**
   - Einsiedler, Manfred & Ward, Thomas. \href{Ergodic theory with a view towards number theory}{https://doi.org/10.1007/978-0-85729-021-2}. *Vol. 259. Graduate Texts in Mathematics Springer-Verlag London, Ltd., London p. xviii+481. 2011.*
-  - \href{Note}{https://drive.google.com/file/d/1fXRkUQqngDIt9Z5FpLFOUTvmtxZcIDoU/view?usp=sharing}
+  - \href{Note}{https://drive.google.com/file/d/1fXRkUQqngDIt9Z5FpLFOUTvmtxZcIDoU/view?usp=sharing}.
 
 - 2/8 Tuesday \venue{Zoom}\\
   **Caiyun Ma**

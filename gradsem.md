@@ -9,11 +9,15 @@ This is an experimental page for the record of *graduate seminars* organized by 
 
 # Upcoming
 ## 2022
-- 3/11 2:30PM Friday \venuelink{Zoom}{https://cuhk.zoom.us/j/2731494159?pwd=eXRxMWNVMENiTEc0Qk16SHROeGZGQT09}\\
+- 3/18 2:30PM Friday \venuelink{Zoom}{https://cuhk.zoom.us/j/2731494159?pwd=eXRxMWNVMENiTEc0Qk16SHROeGZGQT09}\\
   **Jianci Xiao**
   - Hochman, Michael. \href{On self-similar sets with overlaps and inverse theorems for entropy}{https://doi.org/10.4007/annals.2014.180.2.7}. *Ann. of Math. (2) , Vol. 180, No. 2 p. 773-822. 2014.*
 # Previous
 ## 2022
+- 3/11 Friday \venue{Zoom}\\
+  **Jianci Xiao**
+  - Hochman, Michael. \href{On self-similar sets with overlaps and inverse theorems for entropy}{https://doi.org/10.4007/annals.2014.180.2.7}. *Ann. of Math. (2) , Vol. 180, No. 2 p. 773-822. 2014.*
+
 - 1/21 — 2/25 Fri. & Wed. \venue{LSB 222 & Zoom}\\
   **Zhou Feng**
   - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
