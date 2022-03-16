@@ -35,6 +35,7 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
   **Caiyun Ma**
   - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
   - \collapsible{Outline}{\inputoutln{2022/o220208.md}} 
+  - \href{Note}{https://drive.google.com/open?id=1-NDR7g4SuI6YBTJdpva2SUuaYsFp9uPe}.
 
 - 1/25 Tuesday \venue{LSB 202}\\
   **Yuhao Xie**
