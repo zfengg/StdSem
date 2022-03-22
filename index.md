@@ -5,14 +5,22 @@ tags = ["schedule", "student"]
 # Student Seminars
 A series of analysis seminars, with an emphasis on the interests of the [group](/about/), normally takes place on Tuesday afternoons at 14:30 HKT in LSB 202. All are welcome.
 
-\href{Seminar Topics 2022}{/assets/topics/StdsemTopics2022.pdf}
+\href{Seminar Topics 2022}{/assets/topics/StdsemTopics2022.pdf}\\
 
+**Joint notes in progress:**
+- \href{Basics on Moran structures}{/assets/wip/Moran.pdf}
 # Upcoming
 ## 2022
 - To be announced.
 
 # Previous
 ## 2022
+- 3/22 Tuesday \venue{Zoom}\\
+  **Zhou Feng**
+  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
+  - \href{Note}{https://drive.google.com/open?id=1WS1vjzSHjpr0CjsdN7nIqci7Fhe-3Dlk}.
+  - \collapsible{Summary}{\inputsmmry{2022/s220322.md}}
+
 - 3/15 Tuesday \venue{Zoom}\\
   **Yuji Li**
   - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
