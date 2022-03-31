@@ -15,6 +15,12 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Previous
 ## 2022
+- 3/29 Tuesday \venue{Zoom}\\
+  **Yuhao Xie**
+  - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
+  - \href{Note}{https://drive.google.com/file/d/1LzS7Qr6QOYNXKHHg8_FvjZmB21KmMK0Q/view}.
+  - \collapsible{Outline}{\inputoutln{2022/o220329.md}}
+
 - 3/22 Tuesday \venue{Zoom}\\
   **Zhou Feng**
   - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
