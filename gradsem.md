@@ -9,20 +9,19 @@ This is an experimental page for the record of *graduate seminars* organized by 
 
 # Upcoming
 ## 2022
-- 3/18 2:30PM Friday \venuelink{Zoom}{https://cuhk.zoom.us/j/2731494159?pwd=eXRxMWNVMENiTEc0Qk16SHROeGZGQT09}\\
-  **Jianci Xiao**
-  - Hochman, Michael. \href{On self-similar sets with overlaps and inverse theorems for entropy}{https://doi.org/10.4007/annals.2014.180.2.7}. *Ann. of Math. (2) , Vol. 180, No. 2 p. 773-822. 2014.*
+- To be announced.
 # Previous
 ## 2022
-- 3/11 Friday \venue{Zoom}\\
+- 3/11 — 4/1 Fridays \venue{Zoom}\\
   **Jianci Xiao**
   - Hochman, Michael. \href{On self-similar sets with overlaps and inverse theorems for entropy}{https://doi.org/10.4007/annals.2014.180.2.7}. *Ann. of Math. (2) , Vol. 180, No. 2 p. 773-822. 2014.*
+  - \href{Note-1}{https://drive.google.com/file/d/1gvSviW4odYgpJZ4p6KG6CuopS5Cx9AZS}; \href{Note-2}{https://drive.google.com/file/d/1qgHfBeTMVPSg0m3dNzRKQvJHg3BCRxOn}; \href{Note-3}{https://drive.google.com/file/d/1yVvCjq4mXabcirDpt21NmmSpHIfNeYGP}; \href{Note-4}{https://drive.google.com/file/d/1AV46-ZB10cWD4JE7EFvx60OXqFbQgLrB}.
 
 - 1/21 — 2/25 Fri. & Wed. \venue{LSB 222 & Zoom}\\
   **Zhou Feng**
   - Varjú, Péter P.. \href{Absolute continuity of Bernoulli convolutions for algebraic parameters}{https://doi.org/10.1090/jams/916}. *J. Amer. Math. Soc. , Vol. 32, No. 2 p. 351-397. 2019.*
   - \collapsible{Outline}{\inputoutln{2022/o220121.md}}
-  - \noteref{Outline}{2022/220121/o220121.pdf}; \noteref{Key Theorems}{2022/220121/KeyThms.pdf}; \href{Entropy examples}{/assets/notes/2022/220121/EntropyExamples.jl.html}.
+  - \noteref{Outline}{2022/220121/o220121.pdf}; \noteref{Key Theorems}{2022/220121/KeyThms.pdf}; \href{Average entropy examples}{/assets/notes/2022/220121/EntropyExamples.jl.html}.
   - \href{Notes}{https://mycuhk-my.sharepoint.com/:f:/g/personal/1155136793_link_cuhk_edu_hk/Et1amdqGKvZEjAKINOzU1-EBhBWiUXjiwPCPX52em8_wlA?e=YbnvNG}; Video recordings: \href{2/9}{https://cuhk.zoom.us/rec/share/wlM4uy931oOB96sczdsG-FtJtT6gKTQE_8M8ESeKj0JdNsaSTqP1mjoF6vpMuGfb.4I7mGWAocEl6weIO?startTime=1644387764000}; \href{2/11}{https://cuhk.zoom.us/rec/share/hyhVtL2l32R1X_UZtP3MicRbKeICpH3kUHCiTGiOg5txybKcuOZ-NetwSHjNWuq_.9GFTdvICKJbFFwm2?startTime=1644560660000}.
 
 - 1/14 Friday \venue{LSB 222}\\
