@@ -15,6 +15,12 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Previous
 ## 2022
+- 4/12 Tuesday \venue{Zoom}\\
+  **Tianhan Yi**
+  - Falconer, K. J.. \href{On the Hausdorff dimensions of distance sets}{https://doi.org/10.1112/S0025579300010998}. *Mathematika , Vol. 32, No. 2 p. 206-212 (1986). 1985.*
+  - \href{Note}{https://drive.google.com/file/d/1puhFgibgz9-lbuJY-oQpKvY2LQkti8vL}.
+  - \collapsible{Outline}{\inputoutln{2022/o220412.md}}
+
 - 3/29 Tuesday \venue{Zoom}\\
   **Yuhao Xie**
   - Bishop, Christopher J. & Peres, Yuval. \href{Fractals in probability and analysis}{https://doi.org/10.1017/9781316460238}. *Vol. 162. Cambridge Studies in Advanced Mathematics Cambridge University Press, Cambridge p. ix+402. 2017.*
