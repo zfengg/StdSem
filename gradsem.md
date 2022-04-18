@@ -12,6 +12,12 @@ This is an experimental page for the record of *graduate seminars* organized by 
 - To be announced.
 # Previous
 ## 2022
+- 4/15 Friday \venue{Zoom}\\
+  **Yuhao Xie**
+  - Morris, Ian D.. \href{On dense intermingling of exact overlaps and the open set condition}{https://arxiv.org/abs/2203.03408}. *arXiv:2203.03408. 2022.*
+  - \href{Note}{https://drive.google.com/file/d/1v5lK8qfAdkvOV2TPyRcZLC9fDM0IW9Ka}
+  - \collapsible{Outline}{\inputoutln{2022/o220415.md}}
+
 - 3/11 — 4/1 Fridays \venue{Zoom}\\
   **Jianci Xiao**
   - Hochman, Michael. \href{On self-similar sets with overlaps and inverse theorems for entropy}{https://doi.org/10.4007/annals.2014.180.2.7}. *Ann. of Math. (2) , Vol. 180, No. 2 p. 773-822. 2014.*
