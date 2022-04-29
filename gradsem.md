@@ -12,6 +12,12 @@ This is an experimental page for the record of *graduate seminars* organized by 
 - To be announced.
 # Previous
 ## 2022
+- 4/22 — 4/29 Fridays \venue{Zoom}\\
+  **Yuji Li**
+  - Shepp, L. A.. \href{Covering the circle with random arcs}{https://doi.org/10.1007/BF02789327}. *Israel J. Math. , Vol. 11 p. 328-345. 1972.*
+  - \href{Note}{https://drive.google.com/file/d/1XalyWk7SH8VQtcYHurab2Cqh0O-5w7Bi}.
+  - \collapsible{Summary}{\inputsmmry{2022/s220429.md}}
+
 - 4/15 Friday \venue{Zoom}\\
   **Yuhao Xie**
   - Morris, Ian D.. \href{On dense intermingling of exact overlaps and the open set condition}{https://arxiv.org/abs/2203.03408}. *arXiv:2203.03408. 2022.*
