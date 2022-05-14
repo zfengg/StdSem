@@ -15,6 +15,12 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 
 # Previous
 ## 2022
+- 5/10 Tuesday \venue{Zoom}\\
+  **Yuhao Xie**
+  - Lagarias, Jeffrey C. & Wang, Yang. \href{Self-affine tiles in R^n}{https://doi.org/10.1006/aima.1996.0045}. *Adv. Math. , Vol. 121, No. 1 p. 21-49. 1996.*
+  - \href{Note}{https://drive.google.com/file/d/11ZWU7RRedv7k8JQL5cUXnmsYR6SIEeK-}.
+  - \collapsible{Outline}{\inputoutln{2022/o220510.md}}
+  
 - 5/3 Tuesday \venue{Zoom}\\
   **Zhou Feng**
   - Kenyon, Richard. \href{Projecting the one-dimensional Sierpinski gasket}{https://doi.org/10.1007/BF02774038}. *Israel J. Math. , Vol. 97 p. 221-238. 1997.*
