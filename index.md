@@ -24,7 +24,7 @@ A series of analysis seminars, with an emphasis on the interests of the [group](
 - 5/3 Tuesday \venue{Zoom}\\
   **Zhou Feng**
   - Kenyon, Richard. \href{Projecting the one-dimensional Sierpinski gasket}{https://doi.org/10.1007/BF02774038}. *Israel J. Math. , Vol. 97 p. 221-238. 1997.*
-  - \href{Note}{https://drive.google.com/open?id=1IZ6HhhciZHMrzTJ1jvfnkRoKCVvToFEF}.
+  - \href{Note}{https://drive.google.com/open?id=1IZ6HhhciZHMrzTJ1jvfnkRoKCVvToFEF}; \href{Dimension for IFS with exact-overlaps}{/assets/misc/Dim_1d_Rational_IFS.html}.
   - \collapsible{Summary}{\inputsmmry{2022/s220503.md}}
   
 - 4/26 Tuesday \venue{Zoom}\\
