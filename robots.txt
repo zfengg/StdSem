@@ -1,4 +1,4 @@
-Sitemap: https:/stdsem.me/sitemap.xml
+Sitemap: https://zfengg.github.io/StdSem/sitemap.xml
 
 User-agent: *
 Disallow:
