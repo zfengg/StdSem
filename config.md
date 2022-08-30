@@ -9,7 +9,7 @@ prepath = ""
 generate_rss = false
 website_title = "Analysis Seminars"
 website_descr = "A series of seminars on analysis @ cuhk"
-website_url   = "https:/stdsem.me"
+website_url   = "https://zfengg.github.io/StdSem"
 +++
 
 <!-- ------------------------ global latex commands ------------------------ -->
