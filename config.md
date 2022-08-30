@@ -4,12 +4,12 @@ author = "Student Analysis Group"
 mintoclevel = 2
 div_content = "franklin-content"
 ignore = ["node_modules/"]
-prepath = ""
+prepath = "StdSem"
 # RSS
 generate_rss = false
 website_title = "Analysis Seminars"
 website_descr = "A series of seminars on analysis @ cuhk"
-website_url   = "https://zfengg.github.io/StdSem"
+website_url   = "https://zfengg.github.io"
 +++
 
 <!-- ------------------------ global latex commands ------------------------ -->
